@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        btnGoToTela2 = findViewById(R.id.btnGoToTela1)
+        btnGoToTela2 = findViewById(R.id.btnGoToTela01)
         btnGoToTela2.setOnClickListener{
             val intent = Intent (this, tela2::class.java)
             startActivity(intent)

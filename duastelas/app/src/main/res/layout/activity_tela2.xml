@@ -7,7 +7,7 @@
     tools:context=".tela2">
 
     <Button
-        android:id="@+id/btnVoltar"
+        android:id="@+id/btnVoltar3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="160dp"
